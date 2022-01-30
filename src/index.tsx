@@ -3,9 +3,9 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import * as serviceWorker from "./serviceWorker";
+//import * as serviceWorker from "./serviceWorker";
 import { Route,　BrowserRouter} from "react-router-dom"
-import Login from "./login"
+import Login from "./Login"
 
 ReactDOM.render(
   <React.StrictMode>
